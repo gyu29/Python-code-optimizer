@@ -34,7 +34,7 @@
 
 2. Install dependencies:
    ```bash
-   pip install -r requirements.txt
+   pip install customtkinter pillow
    ```
 
 3. Run the application:
