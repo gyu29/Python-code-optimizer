@@ -1,0 +1,18 @@
+{
+  "theme": {
+    "background": "#2E3440",
+    "foreground": "#D8DEE9",
+    "button_color": "#5E81AC",
+    "text_color": "#ECEFF4"
+  },
+  "font": {
+    "family": "Helvetica",
+    "size": 12
+  },
+  "window_size": "1000x800",
+  "default_test_cases": [
+    "1, 2",
+    "3, 4",
+    "5, 6"
+  ]
+}
